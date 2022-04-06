@@ -1,0 +1,25 @@
+{
+  "name": "skku-stat1",
+  "version": "1.0.0",
+  "description": "\"# skku-stat1\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saem020402/skku-stat1.git"
+  },
+  "bin": {
+    "stat": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saem020402/skku-stat1/issues"
+  },
+  "homepage": "https://github.com/saem020402/skku-stat1#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
