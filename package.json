@@ -1,6 +1,6 @@
 {
-  "name": "skku-stat1",
-  "version": "1.0.0",
+  "name": "skku",
+  "version": "1.0.4",
   "description": "\"# skku-stat1\"",
   "main": "index.js",
   "scripts": {
